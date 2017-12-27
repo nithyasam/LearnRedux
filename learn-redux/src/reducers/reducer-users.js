@@ -8,8 +8,8 @@ export default function(){
         },
         {
             id: 2,
-            first: "Abc",
-            last: "Xyz",
+            first: "Nancy",
+            last: "Drew",
             description: "Web developer"
         }
     ]
